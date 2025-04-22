@@ -3,14 +3,11 @@ Aplikasi sederhana yang dibuat menggunakan Android Studio dengan Kotlin untuk me
 - Date Picker Dialog: Memilih tanggal menggunakan dialog pemilihan tanggal.
 - Alert Dialog: Menampilkan dialog peringatan dengan opsi tindakan.
 
-- Github : 
-
 ## 🚀 Fitur Utama
 1. Date Picker Dialog
 - Menampilkan dialog pemilihan tanggal menggunakan DatePickerDialog.
 - Menampilkan tanggal yang dipilih pada layar.
 - Menyertakan notifikasi Toast sebagai konfirmasi.
-
 2. Alert Dialog
 - Menampilkan dialog dengan pesan sederhana.
 - Dialog memiliki dua tombol: OK dan Batal.
@@ -25,3 +22,4 @@ Aplikasi sederhana yang dibuat menggunakan Android Studio dengan Kotlin untuk me
 ## 📜 Hasil Screenshot
 - Pada Android Studio
 - Pada Perangkat Smartphone
+
