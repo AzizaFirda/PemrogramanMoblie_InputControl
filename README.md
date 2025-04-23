@@ -21,6 +21,7 @@ Aplikasi sederhana yang dibuat menggunakan Android Studio dengan Kotlin untuk me
 
 ## 📜 Hasil Screenshot
   ![Screenshot (655)](https://github.com/user-attachments/assets/acc867ff-62d4-4a9d-a701-d45681612987)
+
   ![Input Control](https://github.com/user-attachments/assets/c4558740-3170-4fc0-bddd-ff4647b6e678)
   
 
